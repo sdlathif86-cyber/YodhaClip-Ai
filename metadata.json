@@ -1,0 +1,6 @@
+{
+  "name": "YodhaClip AI",
+  "description": "Beginner-friendly dark purple and obsidian AI video editor dashboard with MP4 upload, live video preview, smart on-device clip cutting, project management, and customizable studio settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

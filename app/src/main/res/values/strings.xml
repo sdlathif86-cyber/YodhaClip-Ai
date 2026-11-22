@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">YodhaClip AI</string>
+    <string name="brand_wordmark">YodhaClip</string>
+    <string name="brand_ai_badge">AI</string>
+    <string name="brand_tagline">Long Videos Into Powerful Shorts.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_upload">Upload</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_clips">Clips</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_hero_badge">AI VIRAL SHORTS MAKER • GEMINI + MEDIA3</string>
+    <string name="home_hero_title">Long Videos Into Powerful Shorts.</string>
+    <string name="home_hero_subtitle">Upload MP4, browse Gallery, or analyze your authorized YouTube link to generate 9:16 Shorts with animated captions &amp; viral hooks.</string>
+    <string name="home_cta_create_shorts">Create New Shorts</string>
+    <string name="home_cta_upload">Upload Video</string>
+    <string name="home_cta_browse_projects">My Projects</string>
+    <string name="home_quick_actions">Quick Studio Actions</string>
+    <string name="home_beginner_guide_title">Beginner Quick Start</string>
+    <string name="home_beginner_guide_subtitle">3 easy steps to create your first clip</string>
+    <string name="home_step_1_title">1. Pick MP4</string>
+    <string name="home_step_1_desc">Choose any video from your phone</string>
+    <string name="home_step_2_title">2. Preview &amp; Cut</string>
+    <string name="home_step_2_desc">Trim manually or auto-split</string>
+    <string name="home_step_3_title">3. Save &amp; Share</string>
+    <string name="home_step_3_desc">Organize in Projects &amp; Clips</string>
+    <string name="home_recent_projects">Recent Projects</string>
+    <string name="home_view_all">View All</string>
+    <string name="home_stat_projects">Projects</string>
+    <string name="home_stat_clips">Saved Clips</string>
+    <string name="home_stat_runtime">Total Time</string>
+    <string name="home_empty_projects_title">No video projects yet</string>
+    <string name="home_empty_projects_desc">Tap Upload Video above to import your first MP4 file and start clipping.</string>
+
+    <!-- Upload Studio -->
+    <string name="upload_title">Upload Video</string>
+    <string name="upload_subtitle">Select MP4, MOV, or WebM to trim, subtitle &amp; export Shorts locally</string>
+    <string name="upload_dropzone_title">Tap to Select MP4, MOV or WebM</string>
+    <string name="upload_dropzone_desc">Supports local .mp4, .mov &amp; .webm files with timeline trimming, editable subtitles &amp; 9:16 MP4 export. Zero cloud uploads or paid APIs.</string>
+    <string name="upload_btn_select_mp4">Choose Video (MP4 / MOV / WebM)</string>
+    <string name="upload_btn_browse_gallery">Browse Video Gallery</string>
+    <string name="upload_btn_change_video">Change Video</string>
+    <string name="upload_project_name_label">Project Title</string>
+    <string name="upload_project_name_placeholder">My Awesome Video</string>
+    <string name="upload_aspect_ratio_label">Target Frame</string>
+    <string name="upload_caption_style_label">Caption Overlay Preview</string>
+    <string name="upload_clip_builder_title">Clip Studio Builder</string>
+    <string name="upload_smart_cut_btn">Auto-Split Smart Clips</string>
+    <string name="upload_add_manual_clip_btn">Add Trimmed Clip</string>
+    <string name="upload_clip_title_label">Clip Name</string>
+    <string name="upload_staged_clips_title">Ready Clips Queue</string>
+    <string name="upload_save_project_btn">Save Project &amp; Clips</string>
+    <string name="upload_beginner_tip">Tip: Drag the purple handles below to pick your favorite moment, or tap Auto-Split Smart Clips to slice automatically.</string>
+
+    <!-- My Projects -->
+    <string name="projects_title">My Projects</string>
+    <string name="projects_subtitle">Your imported MP4 timelines and workspaces</string>
+    <string name="projects_search_hint">Search projects…</string>
+    <string name="projects_empty_title">Your studio workspace is clean</string>
+    <string name="projects_empty_desc">Upload an MP4 video to create your first project and organize its generated clips here.</string>
+    <string name="project_detail_clips_header">Project Clips</string>
+    <string name="project_detail_add_clip">Create New Clip</string>
+    <string name="project_detail_delete">Delete Project</string>
+
+    <!-- My Clips -->
+    <string name="clips_title">My Clips</string>
+    <string name="clips_subtitle">Trimmed highlights ready to preview and share</string>
+    <string name="clips_search_hint">Search clips…</string>
+    <string name="clips_empty_title">No clips saved yet</string>
+    <string name="clips_empty_desc">Upload an MP4 video and use Auto-Split or Manual Trim to build your clip library.</string>
+    <string name="clip_preview_title">Clip Preview</string>
+    <string name="clip_share_action">Share Video</string>
+    <string name="clip_delete_action">Delete Clip</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Studio Settings</string>
+    <string name="settings_subtitle">Customize your local video editor preferences</string>
+    <string name="settings_section_video">Video &amp; Clip Defaults</string>
+    <string name="settings_section_editor">Editor Experience</string>
+    <string name="settings_section_storage">Local Storage &amp; Privacy</string>
+    <string name="settings_export_quality">Default Export Quality</string>
+    <string name="settings_aspect_ratio">Default Aspect Ratio</string>
+    <string name="settings_smart_clip_length">Smart Auto-Cut Clip Length</string>
+    <string name="settings_caption_style">Default Caption Overlay</string>
+    <string name="settings_beginner_tips">Show Beginner Tips</string>
+    <string name="settings_beginner_tips_desc">Display helpful step-by-step guidance cards</string>
+    <string name="settings_loop_preview">Loop Clip Previews</string>
+    <string name="settings_loop_preview_desc">Automatically replay clips inside the preview player</string>
+    <string name="settings_privacy_badge">100% Local Processing — No Paid APIs</string>
+    <string name="settings_privacy_desc">All video inspection, frame thumbnails, and clip markers stay privately on your device.</string>
+    <string name="settings_clear_cache">Clear Thumbnail Cache</string>
+    <string name="settings_reset_defaults">Reset Preferences</string>
+
+    <!-- YouTube Video to Shorts -->
+    <string name="nav_yt_shorts">YT Shorts</string>
+    <string name="yt_shorts_title">YouTube to Shorts</string>
+    <string name="yt_shorts_subtitle">Official metadata, AI hooks, 9:16 &amp; multilingual captions</string>
+    <string name="yt_url_label">YouTube Video URL</string>
+    <string name="yt_url_placeholder">https://www.youtube.com/watch?v=...</string>
+    <string name="yt_fetch_details_btn">Fetch Video Details</string>
+    <string name="yt_ownership_confirm_label">I own this video or have explicit permission from the copyright owner to edit and repurpose it.</string>
+    <string name="yt_original_file_unavailable_notice">Original video file is not on device yet. YodhaClip AI follows YouTube policies and never downloads restricted streams — please upload your original MP4 file below to preview and export 9:16 Shorts.</string>
+    <string name="yt_transcript_label">Video Transcript or Script (Optional)</string>
+    <string name="yt_transcript_placeholder">Paste your YouTube Studio transcript, timestamps, or tap Import .SRT above…</string>
+    <string name="home_yt_shorts_badge">NEW • OFFICIAL API + GEMINI AI</string>
+    <string name="home_yt_shorts_title">YouTube Video to Shorts</string>
+    <string name="home_yt_shorts_desc">Fetch official metadata, upload your MP4, detect 5/10/20 viral moments, add Telugu/Hindi/English captions &amp; download 9:16 MP4s.</string>
+    <string name="home_yt_shorts_cta">Open YouTube to Shorts</string>
+
+    <!-- All-in-One Studio Modules -->
+    <string name="nav_long_shorts">Long AI</string>
+    <string name="nav_live_shorts">Live AI</string>
+    <string name="nav_downloads">Exports</string>
+</resources>
